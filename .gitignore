@@ -1,0 +1,18 @@
+# Staging file — contains your personal case data
+pending_cases.md
+
+# Database output — your personal data
+data.json
+data.json.bak
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs
+*.log
